@@ -1,0 +1,355 @@
+Device  : Xiaomi Mi 4i (ferrari)
+Android : 5.0.2 (V6.7.2.0.LXIMICH, LRX22G)
+Memory  : 33M (0.19% used, 128M max)
+Memclass: 128
+OS Host : zc-miui-ota-bd28.bj
+App     : TextSecure 2.26.4
+
+--------- beginning of main
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836585
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836584
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836583
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836582
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836581
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836580
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836579
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836578
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836577
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836576
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836575
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836574
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836573
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836572
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836571
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836570
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836569
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836568
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836567
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836566
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836565
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836564
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836563
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836562
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836561
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836560
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836559
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836558
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836557
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836556
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836555
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836554
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836553
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836552
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836551
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836550
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836549
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836548
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836547
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836546
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836545
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836544
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836543
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836542
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836541
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836540
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836539
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836538
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836537
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836536
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836535
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836534
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836533
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836532
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836531
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836530
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836529
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836528
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836527
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836526
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836525
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836524
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836523
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836522
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836521
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836520
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836519
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/f/prekeys/836518
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/whisper_directory.db-journal
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/whisper_directory.db
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/messages.db-journal
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/messages.db
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/canonical_address.db-journal
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/canonical_address.db
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/_jobqueue-TextSecureJobs-journal
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/db/_jobqueue-TextSecureJobs
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/sp/SecureSMS.xml
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/sp/org.thoughtcrime.securesms_preferences.xml
+I/file_backup_helper(  432):    Name: apps/org.thoughtcrime.securesms/sp/SecureSMS-Preferences.xml
+I/Process (  432): Sending signal. PID: 432 SIG: 9
+W/PartProvider( 6202): onCreate()
+W/PassphraseRequiredActionBarActivity( 6202): routeApplicationState(), state: 0
+W/PassphraseRequiredActionBarActivity( 6202): initializeClearKeyReceiver()
+W/DirectoryRefreshListener( 6202): Scheduling for: 1442192796715
+D/OpenGLRenderer( 6202): Render dirty regions requested: true
+W/KeyCachingService( 6202): onCreate()
+--------- beginning of system
+W/ResourcesManager( 6202): Asset path '/system/framework/cloud-common.jar' does not exist or contains no resources.
+W/service ( 6202): Broadcasting new secret...
+W/KeyCachingService( 6202): onStartCommand, null
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MmsSmsDatabase( 6202): Executing query: SELECT _id, body, read, type, address, address_device_id, subject, thread_id, status, date_sent, date_received, m_type, msg_box, part_count, ct_l, tr_id, m_size, exp, st, delivery_receipt_count, mismatched_identities, network_failures, transport_type FROM (SELECT DISTINCT date_sent AS date_sent, date AS date_received, _id, body, read, thread_id, type, address, address_device_id, subject, NULL AS m_type, NULL AS msg_box, status, NULL AS part_count, NULL AS ct_l, NULL AS tr_id, NULL AS m_size, NULL AS exp, NULL AS st, delivery_receipt_count, mismatched_identities, NULL AS network_failures, 'sms' AS transport_type FROM sms WHERE (read = 0) UNION ALL SELECT DISTINCT date AS date_sent, date_received AS date_received, _id, body, read, thread_id, NULL AS type, address, address_device_id, NULL AS subject, m_type, msg_box, NULL AS status, part_count, ct_l, tr_id, m_size, exp, st, delivery_receipt_count, mismatched_identities, network_failures, 'mms' AS transport_type FROM mms WHERE (read = 0) ORDER BY date_received ASC)
+W/MessageRetrievalService( 6202): Active Count: 1
+W/MessageRetrievalService( 6202): Waiting for websocket state change....
+W/NotificationState( 6202): Added thread: 8
+W/NotificationState( 6202): Added thread: 1
+W/NotificationState( 6202): Added thread: 2
+W/NotificationState( 6202): Pending array off intent length: 3
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 1, push pending: 0
+W/MessageRetrievalService( 6202): Making websocket connection....
+W/WebSocketConnection( 6202): WSC connect()...
+W/OkHttpClientWrapper( 6202): Connecting to: wss://textsecure-service.whispersystems.org/v1/websocket/?login=%s&password=%s
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 1, push pending: 0
+W/MessageRetrievalService( 6202): Reading message...
+I/Adreno-EGL( 6202): <qeglDrvAPI_eglInitialize:379>: EGL 1.4 QUALCOMM build:  ()
+I/Adreno-EGL( 6202): OpenGL ES Shader Compiler Version: E031.25.03.01
+I/Adreno-EGL( 6202): Build Date: 06/24/15 Wed
+I/Adreno-EGL( 6202): Local Branch: 
+I/Adreno-EGL( 6202): Remote Branch: 
+I/Adreno-EGL( 6202): Local Patches: 
+I/Adreno-EGL( 6202): Reconstruct Branch: 
+I/OpenGLRenderer( 6202): Initialized EGL, version 1.4
+D/OpenGLRenderer( 6202): Enabling debug mode 0
+I/qdutils ( 6202): PartialUpdate status: Disabled
+I/qdutils ( 6202): Left Align: 0
+I/qdutils ( 6202): Width Align: 0
+I/qdutils ( 6202): Top Align: 0
+I/qdutils ( 6202): Height Align: 0
+I/qdutils ( 6202): Min ROI Width: 0
+I/qdutils ( 6202): Min ROI Height: 0
+I/qdutils ( 6202): Needs ROI Merge: 0
+I/qdutils ( 6202): Dynamic Fps: Enabled
+I/qdutils ( 6202): Min Panel fps: 45
+I/qdutils ( 6202): Max Panel fps: 60
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@177efe3e time:26730929
+W/WebSocketConnection( 6202): onConnected()
+W/art     ( 6202): Before Android 4.1, method int android.support.v7.internal.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:26742717
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
+W/PassphraseRequiredActionBarActivity( 6202): routeApplicationState(), state: 0
+W/PassphraseRequiredActionBarActivity( 6202): initializeClearKeyReceiver()
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 1
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@cb36ef5 time:26743153
+W/Resources( 6202): Converting to string: TypedValue{t=0x10/d=0x0 a=-1}
+E/MediaPlayer-JNI( 6202): QCMediaPlayer mediaplayer NOT present
+E/MediaPlayer( 6202): Should have subtitle controller already set
+D/Ringtone( 6202): Successfully created local player
+E/MediaPlayer( 6202): Should have subtitle controller already set
+I/art     ( 6202): Background sticky concurrent mark sweep GC freed 62097(3MB) AllocSpace objects, 10(160KB) LOS objects, 11% free, 25MB/28MB, paused 1.504ms total 137.531ms
+W/MediaPlayer-JNI( 6202): MediaPlayer finalized without being released
+W/ResourcesManager( 6202): Asset path '/system/framework/cloud-common.jar' does not exist or contains no resources.
+W/WebSocketConnection( 6202): Sending keep alive...
+W/OkHttpClientWrapper( 6202): onMessage: BINARY
+W/WebSocketConnection( 6202): WSC onMessage()
+W/WebSocketConnection( 6202): Message Type: 2
+W/MessageRetrievalService( 6202): Application level read timeout...
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 1, push pending: 0
+W/MessageRetrievalService( 6202): Reading message...
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:26798564
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.LOCALE_CHANGE_EVENT
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
+W/PassphraseRequiredActionBarActivity( 6202): routeApplicationState(), state: 0
+W/PassphraseRequiredActionBarActivity( 6202): initializeClearKeyReceiver()
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 1
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@1dbfd4c3 time:26799091
+W/Resources( 6202): Converting to string: TypedValue{t=0x10/d=0x1f4 a=-1}
+W/Resources( 6202): Converting to string: TypedValue{t=0x10/d=0x1f4 a=-1}
+W/ResourcesManager( 6202): Asset path '/system/framework/cloud-common.jar' does not exist or contains no resources.
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:26821405
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
+D/Scrubber( 6202): scrubbing input
+W/IInputConnectionWrapper( 6202): getExtractedText on inactive InputConnection
+W/IInputConnectionWrapper( 6202): getTextBeforeCursor on inactive InputConnection
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@95b7698 time:26822099
+W/IInputConnectionWrapper( 6202): getSelectedText on inactive InputConnection
+W/IInputConnectionWrapper( 6202): getTextAfterCursor on inactive InputConnection
+E/SpannableStringBuilder( 6202): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+E/SpannableStringBuilder( 6202): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+E/SpannableStringBuilder( 6202): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+E/SpannableStringBuilder( 6202): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+I/WebViewFactory( 6202): Loading com.google.android.webview version 44.0.2403.117 (code 240311750)
+I/LibraryLoader( 6202): Time to load native libraries: 2 ms (timestamps 1882-1884)
+I/LibraryLoader( 6202): Expected native library version number "",actual native library version number ""
+V/WebViewChromiumFactoryProvider( 6202): Binding Chromium to main looper Looper (main, tid 1) {278fb828}
+I/LibraryLoader( 6202): Expected native library version number "",actual native library version number ""
+I/chromium( 6202): [INFO:library_loader_hooks.cc(120)] Chromium logging enabled: level = 0, default verbosity = 0
+I/BrowserStartupController( 6202): Initializing chromium process, singleProcess=true
+W/art     ( 6202): Attempt to remove local handle scope entry from IRT, ignoring
+E/SysUtils( 6202): ApplicationContext is null in ApplicationStatus
+W/chromium( 6202): [WARNING:resource_bundle.cc(285)] locale_file_path.empty()
+E/libEGL  ( 6202): validate_display:255 error 3008 (EGL_BAD_DISPLAY)
+E/libEGL  ( 6202): validate_display:255 error 3008 (EGL_BAD_DISPLAY)
+D/BluetoothAdapter( 6202): 375831591: getState() :  mService = null. Returning STATE_OFF
+W/Toast   ( 6202): From org.thoughtcrime.securesms, go ahead.
+V/RenderScript( 6202): Application requested CPU execution
+V/RenderScript( 6202): 0xaba51d00 Launching thread(s), CPUs 8
+W/IInputConnectionWrapper( 6202): showStatusIcon on inactive InputConnection
+W/WebSocketConnection( 6202): Sending keep alive...
+W/OkHttpClientWrapper( 6202): onMessage: BINARY
+W/WebSocketConnection( 6202): WSC onMessage()
+W/WebSocketConnection( 6202): Message Type: 2
+W/MessageRetrievalService( 6202): Application level read timeout...
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 0, push pending: 0
+W/MessageRetrievalService( 6202): Shutting down pipe...
+W/WebSocketConnection( 6202): WSC disconnect()...
+W/OkHttpClientWrapper( 6202): Calling disconnect()...
+W/MessageRetrievalService( 6202): Looping...
+W/MessageRetrievalService( 6202): Waiting for websocket state change....
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 0, push pending: 0
+W/OkHttpClientWrapper( 6202): onClose(1000, OK)
+W/WebSocketConnection( 6202): onClose()...
+W/WebSocketConnection( 6202): Sending keep alive...
+E/WindowManager( 6202): 
+E/WindowManager( 6202): android.view.WindowLeaked: Activity org.thoughtcrime.securesms.LogSubmitActivity has leaked window com.android.internal.policy.impl.PhoneWindow$DecorView{2c63c96e V.E..... R....... 0,0-1026,833} that was originally added here
+E/WindowManager( 6202): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:363)
+E/WindowManager( 6202): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:262)
+E/WindowManager( 6202): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager( 6202): 	at android.app.Dialog.show(Dialog.java:298)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment.handleShowSuccessDialog(SubmitLogFragment.java:297)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment.access$400(SubmitLogFragment.java:80)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment$SubmitToPastebinAsyncTask.onPostExecute(SubmitLogFragment.java:390)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment$SubmitToPastebinAsyncTask.onPostExecute(SubmitLogFragment.java:330)
+E/WindowManager( 6202): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+E/WindowManager( 6202): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+E/WindowManager( 6202): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+E/WindowManager( 6202): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/WindowManager( 6202): 	at android.os.Looper.loop(Looper.java:135)
+E/WindowManager( 6202): 	at android.app.ActivityThread.main(ActivityThread.java:5234)
+E/WindowManager( 6202): 	at java.lang.reflect.Method.invoke(Native Method)
+E/WindowManager( 6202): 	at java.lang.reflect.Method.invoke(Method.java:372)
+E/WindowManager( 6202): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:909)
+E/WindowManager( 6202): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:704)
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:27068992
+W/ResourcesManager( 6202): Asset path '/system/framework/cloud-common.jar' does not exist or contains no resources.
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 1
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 1, push pending: 0
+W/MessageRetrievalService( 6202): Making websocket connection....
+W/WebSocketConnection( 6202): WSC connect()...
+W/OkHttpClientWrapper( 6202): Connecting to: wss://textsecure-service.whispersystems.org/v1/websocket/?login=%s&password=%s
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 1, push pending: 0
+W/MessageRetrievalService( 6202): Reading message...
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
+W/PassphraseRequiredActionBarActivity( 6202): routeApplicationState(), state: 0
+W/PassphraseRequiredActionBarActivity( 6202): initializeClearKeyReceiver()
+W/DirectoryRefreshListener( 6202): Scheduling for: 1442192796715
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 1
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@1f443fc9 time:27069513
+W/WebSocketConnection( 6202): onConnected()
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:27073242
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
+W/PassphraseRequiredActionBarActivity( 6202): routeApplicationState(), state: 0
+W/PassphraseRequiredActionBarActivity( 6202): initializeClearKeyReceiver()
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 1
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@203d1dc6 time:27073571
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:27075703
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
+D/Scrubber( 6202): scrubbing input
+W/IInputConnectionWrapper( 6202): getExtractedText on inactive InputConnection
+D/OpenGLRenderer( 6202): endAllStagingAnimators on 0xab4afff8 (ListView) with handle 0xab322460
+W/IInputConnectionWrapper( 6202): getTextBeforeCursor on inactive InputConnection
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@36099a5e time:27076271
+W/IInputConnectionWrapper( 6202): getSelectedText on inactive InputConnection
+W/IInputConnectionWrapper( 6202): getTextAfterCursor on inactive InputConnection
+W/IInputConnectionWrapper( 6202): beginBatchEdit on inactive InputConnection
+W/IInputConnectionWrapper( 6202): getExtractedText on inactive InputConnection
+W/IInputConnectionWrapper( 6202): getTextBeforeCursor on inactive InputConnection
+W/IInputConnectionWrapper( 6202): getSelectedText on inactive InputConnection
+W/IInputConnectionWrapper( 6202): getTextAfterCursor on inactive InputConnection
+W/IInputConnectionWrapper( 6202): endBatchEdit on inactive InputConnection
+E/SpannableStringBuilder( 6202): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+E/SpannableStringBuilder( 6202): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+W/IInputConnectionWrapper( 6202): showStatusIcon on inactive InputConnection
+W/WebSocketConnection( 6202): Sending keep alive...
+W/OkHttpClientWrapper( 6202): onMessage: BINARY
+W/WebSocketConnection( 6202): WSC onMessage()
+W/WebSocketConnection( 6202): Message Type: 2
+W/MessageRetrievalService( 6202): Application level read timeout...
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 0, push pending: 0
+W/MessageRetrievalService( 6202): Shutting down pipe...
+W/WebSocketConnection( 6202): WSC disconnect()...
+W/OkHttpClientWrapper( 6202): Calling disconnect()...
+W/MessageRetrievalService( 6202): Looping...
+W/MessageRetrievalService( 6202): Waiting for websocket state change....
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 0, push pending: 0
+W/OkHttpClientWrapper( 6202): onClose(1000, OK)
+W/WebSocketConnection( 6202): onClose()...
+W/WebSocketConnection( 6202): Sending keep alive...
+E/WhetstoneSDK-JNI( 6202): on Load native Whetstone
+E/WindowManager( 6202): 
+E/WindowManager( 6202): android.view.WindowLeaked: Activity org.thoughtcrime.securesms.LogSubmitActivity has leaked window com.android.internal.policy.impl.PhoneWindow$DecorView{22da470f V.E..... R....... 0,0-1026,833} that was originally added here
+E/WindowManager( 6202): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:363)
+E/WindowManager( 6202): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:262)
+E/WindowManager( 6202): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager( 6202): 	at android.app.Dialog.show(Dialog.java:298)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment.handleShowSuccessDialog(SubmitLogFragment.java:297)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment.access$400(SubmitLogFragment.java:80)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment$SubmitToPastebinAsyncTask.onPostExecute(SubmitLogFragment.java:390)
+E/WindowManager( 6202): 	at org.whispersystems.libpastelog.SubmitLogFragment$SubmitToPastebinAsyncTask.onPostExecute(SubmitLogFragment.java:330)
+E/WindowManager( 6202): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+E/WindowManager( 6202): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+E/WindowManager( 6202): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+E/WindowManager( 6202): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/WindowManager( 6202): 	at android.os.Looper.loop(Looper.java:135)
+E/WindowManager( 6202): 	at android.app.ActivityThread.main(ActivityThread.java:5234)
+E/WindowManager( 6202): 	at java.lang.reflect.Method.invoke(Native Method)
+E/WindowManager( 6202): 	at java.lang.reflect.Method.invoke(Method.java:372)
+E/WindowManager( 6202): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:909)
+E/WindowManager( 6202): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:704)
+W/ResourcesManager( 6202): Asset path '/system/framework/cloud-common.jar' does not exist or contains no resources.
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 1
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 1, push pending: 0
+W/MessageRetrievalService( 6202): Making websocket connection....
+W/WebSocketConnection( 6202): WSC connect()...
+W/OkHttpClientWrapper( 6202): Connecting to: wss://textsecure-service.whispersystems.org/v1/websocket/?login=%s&password=%s
+W/MessageRetrievalService( 6202): Network requirement: true, active activities: 1, push pending: 0
+W/MessageRetrievalService( 6202): Reading message...
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@1f443fc9 time:27338372
+W/WebSocketConnection( 6202): onConnected()
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:27340718
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
+W/PassphraseRequiredActionBarActivity( 6202): routeApplicationState(), state: 0
+W/PassphraseRequiredActionBarActivity( 6202): initializeClearKeyReceiver()
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_START_EVENT
+W/KeyCachingService( 6202): Incrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 1
+I/Timeline( 6202): Timeline: Activity_idle id: android.os.BinderProxy@df855bf time:27341082
+I/Timeline( 6202): Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:27342798
+W/KeyCachingService( 6202): onStartCommand, org.thoughtcrime.securesms.service.action.ACTIVITY_STOP_EVENT
+W/KeyCachingService( 6202): Decrementing activity count...
+W/MessageRetrievalService( 6202): Active Count: 0
